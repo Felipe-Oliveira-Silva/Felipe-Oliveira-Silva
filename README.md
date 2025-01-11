@@ -1,0 +1,5 @@
+- 👋 Olá, sou @Felipe-Oliveira-Silva
+- 🌱 Estou aprendendo Python, HTML e JavaScript
+- 📟 Sei programar em Pascal e Delphi
+- 📫 Como entrar em contato comigo: Whatsapp(+55 11 91682-1634)/Discord(felks7115)
+- 😄 Pronomes: Ele/Dele
